@@ -1,0 +1,28 @@
+.cart-summary-container {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+.summ-heading {
+  color: #616e7c;
+  font-size: 20px;
+}
+.bill-span {
+  color: #171f46;
+  font-size: 25px;
+}
+.quantity {
+  margin: 0px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.checkout-btn {
+  border: none;
+  background-color: #0b69ff;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  border-radius: 3px;
+}
